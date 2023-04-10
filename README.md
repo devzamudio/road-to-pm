@@ -10,4 +10,4 @@ Este repositorio cuenta con las siguientes ramas para su estudio.
 
 |Rama|Descripción|Autor(es)
 |---|---|---|
-|[Administración](https://github.com/devzamudio/road-to-pm/tree/main/Administraci%C3%B3n)|Todo lo que necesitas saber de administración basado en el plan de estudios de la Licenciatura en Administración de la Universidad Nacional Autónoma de México|Leonardo Zamudio López (@devzamudio)|
+|[Administración](https://github.com/devzamudio/road-to-pm/tree/main/Administraci%C3%B3n)|Todo lo que necesitas saber de administración basado en el plan de estudios de la Licenciatura en Administración de la Universidad Nacional Autónoma de México|Leonardo Zamudio López ([@devzamudio](https://github.com/devzamudio))|
