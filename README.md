@@ -11,3 +11,5 @@ Este repositorio cuenta con las siguientes ramas para su estudio.
 |Rama|Descripción|Autor(es)
 |---|---|---|
 |[Administración](https://github.com/devzamudio/road-to-pm/tree/main/Administraci%C3%B3n)|Todo lo que necesitas saber de administración basado en el plan de estudios de la Licenciatura en Administración de la Universidad Nacional Autónoma de México|Leonardo Zamudio López ([@devzamudio](https://github.com/devzamudio))|
+|[Ciencias de la Computación](https://github.com/devzamudio/road-to-pm/tree/main/Ciencias%20de%20la%20Computaci%C3%B3n)|El pilar fundamental para todo programador|Leonardo Zamudio López ([@devzamudio](https://github.com/devzamudio))|
+|[Idiomas](https://github.com/devzamudio/road-to-pm/tree/main/Idiomas)|Aprende a comunicarte con gente de todo el mundo|Leonardo Zamudio López ([@devzamudio](https://github.com/devzamudio))|
