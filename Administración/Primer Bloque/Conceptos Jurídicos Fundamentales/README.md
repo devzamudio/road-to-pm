@@ -1,0 +1,15 @@
+<h1 align="center">Conceptos Jurídicos Fundamentales</h1>
+
+El derecho es un conjunto de normas, principios y valores que regulan las relaciones entre las personas y su entorno, estableciendo obligaciones y derechos para garantizar la convivencia pacífica y justa en una sociedad. También se refiere a la disciplina académica que estudia y analiza el ordenamiento jurídico de un país, así como a la profesión y práctica de los abogados y otros profesionales relacionados con el ámbito jurídico. El derecho se divide en distintas ramas o áreas, tales como el derecho civil, penal, laboral, mercantil, entre otros, y es fundamental para la organización y funcionamiento de una sociedad democrática y justa.
+
+El estudio del derecho es de suma importancia para la administración, ya que proporciona el marco legal que regula las actividades de las empresas y organizaciones en una sociedad. Las empresas y organizaciones deben cumplir con las leyes y normativas establecidas para garantizar su supervivencia y crecimiento sostenible en el tiempo. Por esta razón, el conocimiento del derecho se convierte en una herramienta vital para la gestión y dirección de las empresas.
+
+El estudio del derecho también es fundamental para la toma de decisiones estratégicas en la administración. Los directivos de una empresa deben estar capacitados para evaluar y analizar los riesgos legales asociados a cualquier decisión que tomen, ya que las implicaciones legales pueden ser significativas para la empresa. Por ejemplo, una mala decisión puede implicar sanciones económicas, la pérdida de la reputación de la empresa o incluso la pérdida de la licencia para operar.
+
+El conocimiento del derecho también es importante para la resolución de conflictos y disputas legales que puedan surgir en la empresa. Las empresas deben contar con un equipo de abogados especializados que les asesoren y representen en litigios, juicios y arbitrajes. Además, los directivos de la empresa deben estar capacitados para negociar acuerdos y resolver conflictos de manera pacífica y en línea con la legislación.
+
+Por último, el estudio del derecho también es importante para el desarrollo de la responsabilidad social corporativa de la empresa. Las empresas deben cumplir con una serie de normas y principios éticos que regulan su relación con la sociedad, el medio ambiente y los derechos humanos. El conocimiento del derecho es fundamental para la elaboración de políticas y prácticas que fomenten la sostenibilidad y la responsabilidad social corporativa.
+
+El objetivo de la información presentada en este repositorio es que comprendas la importancia del estudio del derecho, así como los conceptos fundamentales de las Tendencias del Derecho que te preparen para la formación en las áreas económico-administrativas.
+
+**NOTA: La información de esta asignatura está basada en el derecho y leyes mexicanos, por lo que la información puede variar si lo lees desde otro país.**
