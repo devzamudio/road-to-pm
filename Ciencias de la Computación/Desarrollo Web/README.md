@@ -1,0 +1,129 @@
+<h1 align="center">Desarrollo Web</h1>
+
+El desarrollo web es el proceso de crear sitios web y aplicaciones web para Internet o una intranet. Incluye una variedad de tareas, desde la creación de contenido web hasta la programación y el diseño de la interfaz de usuario.
+
+El desarrollo web puede dividirse en dos áreas principales: el desarrollo web front-end y el desarrollo web back-end. El desarrollo web front-end se enfoca en la parte del sitio web que los usuarios ven y con la que interactúan, mientras que el desarrollo web back-end se enfoca en la parte del sitio web que maneja la lógica del negocio y los datos de los usuarios.
+
+El desarrollo web también puede incluir la creación de aplicaciones web, que son programas informáticos que se ejecutan en un navegador web y ofrecen una experiencia similar a la de las aplicaciones de escritorio. Estas aplicaciones web pueden ser desde simples formularios en línea hasta aplicaciones complejas de software empresarial.
+
+En este curso aprenderás todas las herramientas y conocimientos teóricos necesarios para convertirte en un desarrollador web, los cuales son:
+
+- Introducción al Internet
+- Front-end:
+  - HTML
+  - CSS
+  - Javascript
+  - Gestores de paquetes de Javascript
+  - Arquitectura CSS
+  - Preprocesadores CSS
+  - Formateadores de código
+  - Ejecutadores de tareas
+  - Empaquetadores de módulos
+  - Frameworks de desarrollo front-end
+    - React
+    - Angular
+    - Vue
+    - Svelte
+    - Solid
+  - CSS moderno
+  - Frameworks de CSS
+    - Mantine
+    - Tailwind
+    - Chakra UI
+    - Material UI
+    - DaisyUI
+    - Radix UI
+  - Testing de aplicaciones front-end
+    - Jest
+    - React Testing Library
+    - Cypress
+    - Playwright
+  - Componentes web
+  - TypeScript
+  - Aplicaciones web progresivas
+    - Almacenamiento
+    - Web Sockets
+    - Eventos enviados por el servidor
+    - Service Workers
+    - Ubicación
+    - Notificaciones
+    - Orientación del dispositivo
+    - Pagos
+    - Credenciales
+  - Server Side Rendering
+  - Generadores de sitios estáticos
+  - Desarrollo de aplicaciones móviles
+    - React Native
+    - Dart
+      - Flutter
+    - Ionic
+    - NativeScript
+  - Desarrollo de aplicaciones de escritorio
+    - Electron
+    - Flutter
+    - Tauri
+- Back-end:
+  - Lenguaje de programación
+    - Rust
+    - Go
+    - Java
+    - C#
+    - Python
+    - PHP
+    - Ruby
+  - Sistemas operativos y conocimiento general
+    - Sistemas operativos
+    - Gestión de memoria
+    - Comunicación entre procesos
+    - Gestión de entrada y salida de datos
+    - Conceptos básicos de redes
+    - Hilos y concurrencia
+    - Gestión de procesos
+  - Bases de datos
+    - Relacionales
+      - SQL
+    - No relacionales
+      - MongoDB
+      - InfluxDB
+      - Firebase
+      - Cassandra
+      - Redis
+    - Mapeo de objetos relacionales (ORM)
+    - Matriz ACID
+    - Transacciones
+    - Problema N+1
+    - Normalización
+    - Modos de fallo
+    - Rendimiento
+    - Escalabilidad de bases de datos
+  - Interfaz de programación de aplicaciones (API)
+    - Transferencia de Estado Representacional (REST)
+    - JSON
+    - GraphQL
+    - Autenticación
+      - OAuth
+      - Basic Auth
+      - Token Auth
+      - JSON Web Token
+    - Caching
+    - Seguridad Web
+      - Algoritmos de hashing
+    - Integración continua / Despliegue continua (CI/CD)
+    - Diseño y arquitectura de software
+      - Código limpio
+      - Paradigmas de programación
+        - Programación Orientada a Objetos
+        - Programación Estructurada
+        - Programación Funcional
+      - Principios de diseño
+      - Patrones de diseño
+      - Pincipios de arquitectura
+      - Estilos de arquitectura
+      - Patrones de arquitectura
+      - Patrones empresariales
+    - Motores de búsqueda
+    - Contenedores
+      - Docker
+      - Kubernetes
+    - Virtualización
+    - Escalabilidad de aplicaciones web
